@@ -117,8 +117,3 @@ Switch roles instantly using the **Role** dropdown in the top-right navbar. Chan
 - **Lucide React** — clean, consistent icon set
 - **Vanilla CSS** — custom design system with CSS variables
 
----
-
-## 📄 License
-
-MIT
